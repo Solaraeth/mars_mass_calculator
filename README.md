@@ -1,2 +1,2 @@
 # mars_mass_calculator
-Converts Earth weight to mars equivelant
+Converts Earth weight to Mars equivalent
